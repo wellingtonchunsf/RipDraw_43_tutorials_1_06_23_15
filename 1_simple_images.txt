@@ -1,0 +1,30 @@
+Version 1
+Resolution 480, 110
+DeviceSize 152, 91
+
+SetLayerEnable 1, 1
+SetLayerBackColor 1, ffffff00
+
+SetLayerEnable 2, 1
+SetLayerBackColor 2, ffffff00
+ImageWrite 2, green-on, 98, 48
+ImageWrite 2, peacock-blue-on, 384, 48
+ImageWrite 2, red-on, 288, 48
+ImageWrite 2, yellow-on, 192, 48
+StringWrite 2,196, 80, ConsolaMono_20, 000000, 0, "Text Here"
+
+SetLayerEnable 3, 0
+SetLayerBackColor 3, ffffff00
+
+SetLayerEnable 4, 0
+SetLayerBackColor 4, ffffff00
+
+SetLayerEnable 5, 0
+SetLayerBackColor 5, ffffff00
+
+SetLayerEnable 6, 0
+SetLayerBackColor 6, ffffff00
+
+SetLayerEnable 7, 0
+SetLayerBackColor 7, ffffff00
+
